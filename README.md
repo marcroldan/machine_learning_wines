@@ -6,7 +6,7 @@ The analysis is conducted using Python and includes data preprocessing, model tr
 ## Project Overview
 
 The goal of this project is to apply various machine learning techniques to a dataset containing information about different types of wines. 
-The main objective is to predict the quality of wines based on their chemical properties. 
+The main objective is to predict the quality and colour of wines based on their chemical properties. 
 
 This analysis includes:
 
